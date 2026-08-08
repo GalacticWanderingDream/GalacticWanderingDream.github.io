@@ -8,7 +8,7 @@
     <priority>1.0</priority>
     <xhtml:link
                rel="alternate"
-               hreflang="en"
+               hreflang="zh-cn"
                href="https://GalacticWanderingDream.github.io/"/>
   </url>
   <url>
@@ -18,7 +18,7 @@
     <priority>0.8</priority>
     <xhtml:link
                rel="alternate"
-               hreflang="en"
+               hreflang="zh-cn"
                href="https://GalacticWanderingDream.github.io/posts/every-day-all-i-love/"/>
   </url>
   <url>
@@ -28,7 +28,7 @@
     <priority>0.5</priority>
     <xhtml:link
                rel="alternate"
-               hreflang="en"
+               hreflang="zh-cn"
                href="https://GalacticWanderingDream.github.io/posts/"/>
   </url>
   <url>
@@ -38,7 +38,7 @@
     <priority>0.3</priority>
     <xhtml:link
                rel="alternate"
-               hreflang="en"
+               hreflang="zh-cn"
                href="https://GalacticWanderingDream.github.io/tags/"/>
   </url>
   <url>
@@ -48,7 +48,7 @@
     <priority>0.3</priority>
     <xhtml:link
                rel="alternate"
-               hreflang="en"
+               hreflang="zh-cn"
                href="https://GalacticWanderingDream.github.io/tags/%E7%B1%BB%E5%8F%B8/"/>
   </url>
   <url>
@@ -58,7 +58,7 @@
     <priority>0.8</priority>
     <xhtml:link
                rel="alternate"
-               hreflang="en"
+               hreflang="zh-cn"
                href="https://GalacticWanderingDream.github.io/posts/%E7%B1%BB%E5%8F%B8%E9%9A%8F%E7%AC%94/"/>
   </url>
   <url>
@@ -68,7 +68,7 @@
     <priority>0.3</priority>
     <xhtml:link
                rel="alternate"
-               hreflang="en"
+               hreflang="zh-cn"
                href="https://GalacticWanderingDream.github.io/categories/"/>
   </url>
   

@@ -32,6 +32,26 @@
                href="https://GalacticWanderingDream.github.io/posts/"/>
   </url>
   <url>
+    <loc>https://GalacticWanderingDream.github.io/tags/</loc>
+    <lastmod>2026-08-08T17:52:59+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://GalacticWanderingDream.github.io/tags/"/>
+  </url>
+  <url>
+    <loc>https://GalacticWanderingDream.github.io/tags/%E7%B1%BB%E5%8F%B8/</loc>
+    <lastmod>2026-08-08T17:52:59+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://GalacticWanderingDream.github.io/tags/%E7%B1%BB%E5%8F%B8/"/>
+  </url>
+  <url>
     <loc>https://GalacticWanderingDream.github.io/posts/%E7%B1%BB%E5%8F%B8%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2026-07-24T20:09:59+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -50,16 +70,6 @@
                rel="alternate"
                hreflang="en"
                href="https://GalacticWanderingDream.github.io/categories/"/>
-  </url>
-  <url>
-    <loc>https://GalacticWanderingDream.github.io/tags/</loc>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="https://GalacticWanderingDream.github.io/tags/"/>
   </url>
   
 </urlset>

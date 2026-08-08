@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://GalacticWanderingDream.github.io/</loc>
-    <lastmod>2026-08-07T20:09:59+08:00</lastmod>
+    <lastmod>2026-07-24T20:09:59+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <xhtml:link
@@ -12,24 +12,24 @@
                href="https://GalacticWanderingDream.github.io/"/>
   </url>
   <url>
-    <loc>https://GalacticWanderingDream.github.io/posts/first_blog/</loc>
-    <lastmod>2026-08-07T20:09:59+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="https://GalacticWanderingDream.github.io/posts/first_blog/"/>
-  </url>
-  <url>
     <loc>https://GalacticWanderingDream.github.io/posts/</loc>
-    <lastmod>2026-08-07T20:09:59+08:00</lastmod>
+    <lastmod>2026-07-24T20:09:59+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                rel="alternate"
                hreflang="en"
                href="https://GalacticWanderingDream.github.io/posts/"/>
+  </url>
+  <url>
+    <loc>https://GalacticWanderingDream.github.io/posts/first_blog/</loc>
+    <lastmod>2026-07-24T20:09:59+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://GalacticWanderingDream.github.io/posts/first_blog/"/>
   </url>
   <url>
     <loc>https://GalacticWanderingDream.github.io/categories/</loc>

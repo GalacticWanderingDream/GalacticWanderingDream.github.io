@@ -32,6 +32,16 @@
                href="https://GalacticWanderingDream.github.io/posts/%E7%B1%BB%E5%8F%B8%E9%9A%8F%E7%AC%94/"/>
   </url>
   <url>
+    <loc>https://GalacticWanderingDream.github.io/posts/pegasus-hstx011/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://GalacticWanderingDream.github.io/posts/pegasus-hstx011/"/>
+  </url>
+  <url>
     <loc>https://GalacticWanderingDream.github.io/categories/</loc>
     
     <changefreq>monthly</changefreq>

@@ -112,6 +112,16 @@
                href="https://GalacticWanderingDream.github.io/tags/%E7%B1%BB%E5%8F%B8-%E8%B7%91%E5%9B%A2log-%E5%8E%9F%E4%BD%9C%E8%A1%8D%E7%94%9F/"/>
   </url>
   <url>
+    <loc>https://GalacticWanderingDream.github.io/posts/%E5%B9%95%E9%97%B4%E9%97%B9%E5%89%A7/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://GalacticWanderingDream.github.io/posts/%E5%B9%95%E9%97%B4%E9%97%B9%E5%89%A7/"/>
+  </url>
+  <url>
     <loc>https://GalacticWanderingDream.github.io/categories/</loc>
     
     <changefreq>monthly</changefreq>

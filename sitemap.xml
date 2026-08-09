@@ -222,14 +222,24 @@
                href="https://GalacticWanderingDream.github.io/posts/dating-under-the-apocalypse/"/>
   </url>
   <url>
-    <loc>https://GalacticWanderingDream.github.io/tags/%E7%B1%BB%E5%8F%B8-%E8%B7%91%E5%9B%A2log-%E5%8E%9F%E4%BD%9C%E8%A1%8D%E7%94%9F/</loc>
+    <loc>https://GalacticWanderingDream.github.io/tags/%E5%8E%9F%E4%BD%9C%E8%A1%8D%E7%94%9F/</loc>
     <lastmod>2024-10-02T00:12:12+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
     <xhtml:link
                rel="alternate"
                hreflang="en"
-               href="https://GalacticWanderingDream.github.io/tags/%E7%B1%BB%E5%8F%B8-%E8%B7%91%E5%9B%A2log-%E5%8E%9F%E4%BD%9C%E8%A1%8D%E7%94%9F/"/>
+               href="https://GalacticWanderingDream.github.io/tags/%E5%8E%9F%E4%BD%9C%E8%A1%8D%E7%94%9F/"/>
+  </url>
+  <url>
+    <loc>https://GalacticWanderingDream.github.io/tags/%E8%B7%91%E5%9B%A2log/</loc>
+    <lastmod>2024-10-02T00:12:12+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://GalacticWanderingDream.github.io/tags/%E8%B7%91%E5%9B%A2log/"/>
   </url>
   <url>
     <loc>https://GalacticWanderingDream.github.io/categories/</loc>

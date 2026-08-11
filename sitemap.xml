@@ -22,6 +22,26 @@
                href="https://GalacticWanderingDream.github.io/posts/"/>
   </url>
   <url>
+    <loc>https://GalacticWanderingDream.github.io/series/</loc>
+    <lastmod>2026-08-11T00:12:12+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://GalacticWanderingDream.github.io/series/"/>
+  </url>
+  <url>
+    <loc>https://GalacticWanderingDream.github.io/series/%E5%81%87%E9%9D%A2%E4%B9%8B%E4%B8%8B%E6%98%AF%E6%81%8B%E5%BF%83/</loc>
+    <lastmod>2026-08-11T00:12:12+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://GalacticWanderingDream.github.io/series/%E5%81%87%E9%9D%A2%E4%B9%8B%E4%B8%8B%E6%98%AF%E6%81%8B%E5%BF%83/"/>
+  </url>
+  <url>
     <loc>https://GalacticWanderingDream.github.io/posts/citreous-singal/</loc>
     <lastmod>2026-08-11T00:12:12+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -40,6 +60,16 @@
                rel="alternate"
                hreflang="en"
                href="https://GalacticWanderingDream.github.io/posts/every-day-all-i-love/"/>
+  </url>
+  <url>
+    <loc>https://GalacticWanderingDream.github.io/series/%E6%B4%BE%E7%94%9F%E5%AE%87%E5%AE%99/</loc>
+    <lastmod>2026-07-26T07:52:59+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://GalacticWanderingDream.github.io/series/%E6%B4%BE%E7%94%9F%E5%AE%87%E5%AE%99/"/>
   </url>
   <url>
     <loc>https://GalacticWanderingDream.github.io/posts/%E7%B1%BB%E5%8F%B8%E9%9A%8F%E7%AC%94/</loc>
@@ -82,6 +112,16 @@
                href="https://GalacticWanderingDream.github.io/posts/%E8%B0%81%E5%8A%A8%E4%BA%86%E6%88%91%E7%9A%84%E8%9B%8B%E7%B3%95/"/>
   </url>
   <url>
+    <loc>https://GalacticWanderingDream.github.io/series/%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F%E3%83%A4%E3%83%84%E3%83%A9/</loc>
+    <lastmod>2025-12-21T00:00:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://GalacticWanderingDream.github.io/series/%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F%E3%83%A4%E3%83%84%E3%83%A9/"/>
+  </url>
+  <url>
     <loc>https://GalacticWanderingDream.github.io/posts/%E9%9B%A8%E4%B8%AD%E7%9A%84%E6%B6%9F%E6%BC%AA/</loc>
     <lastmod>2025-12-21T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -110,26 +150,6 @@
                rel="alternate"
                hreflang="en"
                href="https://GalacticWanderingDream.github.io/posts/a-story-for-you/"/>
-  </url>
-  <url>
-    <loc>https://GalacticWanderingDream.github.io/series/</loc>
-    <lastmod>2025-07-18T00:00:00+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="https://GalacticWanderingDream.github.io/series/"/>
-  </url>
-  <url>
-    <loc>https://GalacticWanderingDream.github.io/series/%E6%B4%BE%E7%94%9F%E5%AE%87%E5%AE%99/</loc>
-    <lastmod>2025-07-18T00:00:00+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="https://GalacticWanderingDream.github.io/series/%E6%B4%BE%E7%94%9F%E5%AE%87%E5%AE%99/"/>
   </url>
   <url>
     <loc>https://GalacticWanderingDream.github.io/posts/%E7%88%B1%E6%98%AF%E8%88%9E%E5%8F%B0/</loc>

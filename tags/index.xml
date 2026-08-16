@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Tags on </title>
+		<title>Tags on 银河漫游之梦</title>
 		<link>https://GalacticWanderingDream.github.io/tags/</link>
-		<description>Recent content in Tags on </description>
+		<description>Recent content in Tags on 银河漫游之梦</description>
 		<generator>Hugo</generator>
-		<language>en</language>
+		<language>zh-CN</language>
 		
 		
 		
@@ -14,17 +14,17 @@
 		
 			<atom:link href="https://GalacticWanderingDream.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>派生</title>
-				<link>https://GalacticWanderingDream.github.io/tags/%E6%B4%BE%E7%94%9F/</link>
-				<pubDate>Fri, 14 Aug 2026 00:12:12 +0800</pubDate>
-				<guid>https://GalacticWanderingDream.github.io/tags/%E6%B4%BE%E7%94%9F/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>类司</title>
 				<link>https://GalacticWanderingDream.github.io/tags/%E7%B1%BB%E5%8F%B8/</link>
 				<pubDate>Fri, 14 Aug 2026 00:12:12 +0800</pubDate>
 				<guid>https://GalacticWanderingDream.github.io/tags/%E7%B1%BB%E5%8F%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>派生</title>
+				<link>https://GalacticWanderingDream.github.io/tags/%E6%B4%BE%E7%94%9F/</link>
+				<pubDate>Fri, 14 Aug 2026 00:12:12 +0800</pubDate>
+				<guid>https://GalacticWanderingDream.github.io/tags/%E6%B4%BE%E7%94%9F/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -35,17 +35,17 @@
 				<description></description>
 			</item>
 			<item>
-				<title>星际旅人 X Pega</title>
-				<link>https://GalacticWanderingDream.github.io/tags/%E6%98%9F%E9%99%85%E6%97%85%E4%BA%BA-x-pega/</link>
-				<pubDate>Sun, 26 Jul 2026 07:52:59 +0800</pubDate>
-				<guid>https://GalacticWanderingDream.github.io/tags/%E6%98%9F%E9%99%85%E6%97%85%E4%BA%BA-x-pega/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>末日后酒店AU</title>
 				<link>https://GalacticWanderingDream.github.io/tags/%E6%9C%AB%E6%97%A5%E5%90%8E%E9%85%92%E5%BA%97au/</link>
 				<pubDate>Sun, 26 Jul 2026 07:52:59 +0800</pubDate>
 				<guid>https://GalacticWanderingDream.github.io/tags/%E6%9C%AB%E6%97%A5%E5%90%8E%E9%85%92%E5%BA%97au/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>星际旅人 X Pega</title>
+				<link>https://GalacticWanderingDream.github.io/tags/%E6%98%9F%E9%99%85%E6%97%85%E4%BA%BA-x-pega/</link>
+				<pubDate>Sun, 26 Jul 2026 07:52:59 +0800</pubDate>
+				<guid>https://GalacticWanderingDream.github.io/tags/%E6%98%9F%E9%99%85%E6%97%85%E4%BA%BA-x-pega/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -56,17 +56,17 @@
 				<description></description>
 			</item>
 			<item>
-				<title>原作</title>
-				<link>https://GalacticWanderingDream.github.io/tags/%E5%8E%9F%E4%BD%9C/</link>
-				<pubDate>Fri, 24 Jul 2026 20:09:59 +0800</pubDate>
-				<guid>https://GalacticWanderingDream.github.io/tags/%E5%8E%9F%E4%BD%9C/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>随笔</title>
 				<link>https://GalacticWanderingDream.github.io/tags/%E9%9A%8F%E7%AC%94/</link>
 				<pubDate>Fri, 24 Jul 2026 20:09:59 +0800</pubDate>
 				<guid>https://GalacticWanderingDream.github.io/tags/%E9%9A%8F%E7%AC%94/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>原作</title>
+				<link>https://GalacticWanderingDream.github.io/tags/%E5%8E%9F%E4%BD%9C/</link>
+				<pubDate>Fri, 24 Jul 2026 20:09:59 +0800</pubDate>
+				<guid>https://GalacticWanderingDream.github.io/tags/%E5%8E%9F%E4%BD%9C/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -77,17 +77,17 @@
 				<description></description>
 			</item>
 			<item>
-				<title>原作衍生</title>
-				<link>https://GalacticWanderingDream.github.io/tags/%E5%8E%9F%E4%BD%9C%E8%A1%8D%E7%94%9F/</link>
-				<pubDate>Sat, 21 Feb 2026 00:00:00 +0800</pubDate>
-				<guid>https://GalacticWanderingDream.github.io/tags/%E5%8E%9F%E4%BD%9C%E8%A1%8D%E7%94%9F/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>论坛体</title>
 				<link>https://GalacticWanderingDream.github.io/tags/%E8%AE%BA%E5%9D%9B%E4%BD%93/</link>
 				<pubDate>Sat, 21 Feb 2026 00:00:00 +0800</pubDate>
 				<guid>https://GalacticWanderingDream.github.io/tags/%E8%AE%BA%E5%9D%9B%E4%BD%93/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>原作衍生</title>
+				<link>https://GalacticWanderingDream.github.io/tags/%E5%8E%9F%E4%BD%9C%E8%A1%8D%E7%94%9F/</link>
+				<pubDate>Sat, 21 Feb 2026 00:00:00 +0800</pubDate>
+				<guid>https://GalacticWanderingDream.github.io/tags/%E5%8E%9F%E4%BD%9C%E8%A1%8D%E7%94%9F/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -105,20 +105,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>团托</title>
-				<link>https://GalacticWanderingDream.github.io/tags/%E5%9B%A2%E6%89%98/</link>
-				<pubDate>Sat, 27 Dec 2025 00:00:00 +0800</pubDate>
-				<guid>https://GalacticWanderingDream.github.io/tags/%E5%9B%A2%E6%89%98/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>学厨</title>
-				<link>https://GalacticWanderingDream.github.io/tags/%E5%AD%A6%E5%8E%A8/</link>
-				<pubDate>Sat, 27 Dec 2025 00:00:00 +0800</pubDate>
-				<guid>https://GalacticWanderingDream.github.io/tags/%E5%AD%A6%E5%8E%A8/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>恶boo</title>
 				<link>https://GalacticWanderingDream.github.io/tags/%E6%81%B6boo/</link>
 				<pubDate>Sat, 27 Dec 2025 00:00:00 +0800</pubDate>
@@ -130,6 +116,20 @@
 				<link>https://GalacticWanderingDream.github.io/tags/%E6%B4%BE%E7%94%9F%E5%AE%87%E5%AE%99/</link>
 				<pubDate>Sat, 27 Dec 2025 00:00:00 +0800</pubDate>
 				<guid>https://GalacticWanderingDream.github.io/tags/%E6%B4%BE%E7%94%9F%E5%AE%87%E5%AE%99/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>团托</title>
+				<link>https://GalacticWanderingDream.github.io/tags/%E5%9B%A2%E6%89%98/</link>
+				<pubDate>Sat, 27 Dec 2025 00:00:00 +0800</pubDate>
+				<guid>https://GalacticWanderingDream.github.io/tags/%E5%9B%A2%E6%89%98/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>学厨</title>
+				<link>https://GalacticWanderingDream.github.io/tags/%E5%AD%A6%E5%8E%A8/</link>
+				<pubDate>Sat, 27 Dec 2025 00:00:00 +0800</pubDate>
+				<guid>https://GalacticWanderingDream.github.io/tags/%E5%AD%A6%E5%8E%A8/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -147,13 +147,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>乱马1/2paro</title>
-				<link>https://GalacticWanderingDream.github.io/tags/%E4%B9%B1%E9%A9%AC1/2paro/</link>
-				<pubDate>Sun, 21 Dec 2025 00:00:00 +0800</pubDate>
-				<guid>https://GalacticWanderingDream.github.io/tags/%E4%B9%B1%E9%A9%AC1/2paro/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>黑道x中华街打工仔</title>
 				<link>https://GalacticWanderingDream.github.io/tags/%E9%BB%91%E9%81%93x%E4%B8%AD%E5%8D%8E%E8%A1%97%E6%89%93%E5%B7%A5%E4%BB%94/</link>
 				<pubDate>Sun, 21 Dec 2025 00:00:00 +0800</pubDate>
@@ -161,10 +154,17 @@
 				<description></description>
 			</item>
 			<item>
-				<title>婚礼</title>
-				<link>https://GalacticWanderingDream.github.io/tags/%E5%A9%9A%E7%A4%BC/</link>
+				<title>乱马1/2paro</title>
+				<link>https://GalacticWanderingDream.github.io/tags/%E4%B9%B1%E9%A9%AC1/2paro/</link>
+				<pubDate>Sun, 21 Dec 2025 00:00:00 +0800</pubDate>
+				<guid>https://GalacticWanderingDream.github.io/tags/%E4%B9%B1%E9%A9%AC1/2paro/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>百鬼</title>
+				<link>https://GalacticWanderingDream.github.io/tags/%E7%99%BE%E9%AC%BC/</link>
 				<pubDate>Sat, 19 Jul 2025 00:00:00 +0800</pubDate>
-				<guid>https://GalacticWanderingDream.github.io/tags/%E5%A9%9A%E7%A4%BC/</guid>
+				<guid>https://GalacticWanderingDream.github.io/tags/%E7%99%BE%E9%AC%BC/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -175,10 +175,10 @@
 				<description></description>
 			</item>
 			<item>
-				<title>百鬼</title>
-				<link>https://GalacticWanderingDream.github.io/tags/%E7%99%BE%E9%AC%BC/</link>
+				<title>婚礼</title>
+				<link>https://GalacticWanderingDream.github.io/tags/%E5%A9%9A%E7%A4%BC/</link>
 				<pubDate>Sat, 19 Jul 2025 00:00:00 +0800</pubDate>
-				<guid>https://GalacticWanderingDream.github.io/tags/%E7%99%BE%E9%AC%BC/</guid>
+				<guid>https://GalacticWanderingDream.github.io/tags/%E5%A9%9A%E7%A4%BC/</guid>
 				<description></description>
 			</item>
 			<item>

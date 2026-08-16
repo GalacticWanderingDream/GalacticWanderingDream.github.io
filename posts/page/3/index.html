@@ -1,10 +1,10 @@
 <!doctype html>
-<html lang="en" class="h-full">
+<html lang="zh-CN" class="h-full">
   <head>
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="language" content="en">
+<meta name="language" content="zh-CN">
 <meta name="theme-color" content="#BD5FFF">
 <script>
   
@@ -19,9 +19,9 @@
   
   window.MANA_SEARCH_INDEX_URL = '\/index.json';
   
-  window.MANA_LANG_PREFIXES = ['en'];
+  window.MANA_LANG_PREFIXES = ['zh','en','ja'];
 </script>
-<title>Posts | </title>
+<title>Posts | 银河漫游之梦</title>
 <meta
   name="description"
   content="
@@ -39,19 +39,19 @@
 <link rel="canonical" href="https://GalacticWanderingDream.github.io/posts/">
 
 
-<link rel="alternate" hreflang="en" href="https://GalacticWanderingDream.github.io/posts/"><link rel="alternate" hreflang="x-default" href="https://GalacticWanderingDream.github.io/posts/">
+<link rel="alternate" hreflang="zh-CN" href="https://GalacticWanderingDream.github.io/posts/"><link rel="alternate" hreflang="x-default" href="https://GalacticWanderingDream.github.io/posts/">
 
 
 <meta name="robots" content="index, follow">
 
 <meta property="og:type" content="website">
-<meta property="og:locale" content="en">
-<meta property="og:title" content="Posts | ">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:title" content="Posts | 银河漫游之梦">
 <meta property="og:description" content="">
 <meta property="og:url" content="https://GalacticWanderingDream.github.io/posts/">
-<meta property="og:site_name" content="">
+<meta property="og:site_name" content="银河漫游之梦">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Posts | ">
+<meta name="twitter:title" content="Posts | 银河漫游之梦">
 <meta name="twitter:description" content="">
 
 
@@ -166,16 +166,16 @@
 
   </head>
   <body class="flex flex-col min-h-screen">
-    <a href="#main-content" class="skip-to-main" aria-label="Skip to main content"
-      >Skip to main content</a
+    <a href="#main-content" class="skip-to-main" aria-label="跳至主要内容"
+      >跳至主要内容</a
     >
     <header class="sticky-header">
       <div class="header-container">
         <nav class="header-nav" role="navigation" aria-label="Main navigation">
   <div class="header-content">
     <div class="header-logo">
-      <a href="/" class="logo-link" aria-label="Home - ">
-        
+      <a href="/" class="logo-link" aria-label="Home - 银河漫游之梦">
+        银河漫游之梦
       </a>
     </div>
 
@@ -183,7 +183,7 @@
     <button 
       id="mobile-menu-toggle" 
       class="mobile-menu-toggle" 
-      aria-label="Toggle menu" 
+      aria-label="切换菜单" 
       aria-expanded="false"
       type="button">
       <span class="hamburger-icon">
@@ -200,7 +200,7 @@
       <a
         href="/"
         class="menu-link ">
-        Home
+        主页
       </a>
     </li>
   
@@ -208,7 +208,7 @@
       <a
         href="/posts/"
         class="menu-link active">
-        Posts
+        文章
       </a>
     </li>
   
@@ -216,7 +216,7 @@
       <a
         href="/tags/"
         class="menu-link ">
-        Tags
+        标签
       </a>
     </li>
   
@@ -224,14 +224,14 @@
       <a
         href="/series/"
         class="menu-link ">
-        Series
+        系列
       </a>
     </li>
   
 </ul>
 
 
-      <button id="search-toggle" class="search-toggle" aria-label="Search" type="button">
+      <button id="search-toggle" class="search-toggle" aria-label="搜索" type="button">
         <svg class="search-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path
             stroke-linecap="round"
@@ -242,9 +242,13 @@
       </button>
 
       
+  
+  
+  
 
 
-      <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme" type="button">
+
+      <button id="theme-toggle" class="theme-toggle" aria-label="切换主题" type="button">
   <svg class="icon-sun" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
     <path
       stroke-linecap="round"
@@ -622,14 +626,14 @@
   <div class="list-container">
     <header class="list-header">
       <h1 class="list-title">
-        <span class="list-title-line2">POSTS</span>
+        <span class="list-title-line2">文章</span>
       </h1>
       
       <div class="list-count">
   <span id="filtered-count">23</span>
-  posts
+  篇文章
   
-    <span class="list-count-pages">(3 pages)</span>
+    <span class="list-count-pages">(3 页)</span>
   
 </div>
 
@@ -642,9 +646,9 @@
         class="filter-toggle-btn"
         id="filter-toggle-btn"
         aria-expanded="false"
-        aria-label="Filters"
+        aria-label="筛选"
         aria-controls="posts-filter-content">
-        <span class="filter-toggle-text">Filters</span>
+        <span class="filter-toggle-text">筛选</span>
         <svg
           class="filter-toggle-icon"
           fill="none"
@@ -660,14 +664,14 @@
       </button>
       <div class="posts-filter" id="posts-filter-content">
         <div class="filter-group filter-group-tags">
-          <label class="filter-label" for="tag-search-input">Tags</label>
-          <div class="tag-search-container" data-no-tags="No tags found">
+          <label class="filter-label" for="tag-search-input">标签</label>
+          <div class="tag-search-container" data-no-tags="未找到标签">
             <input
               type="text"
               id="tag-search-input"
               class="tag-search-input"
-              placeholder="Search for tags..."
-              aria-label="Search for tags...">
+              placeholder="搜索标签..."
+              aria-label="搜索标签...">
             <div
               id="tag-search-results"
               class="tag-search-results"
@@ -691,125 +695,125 @@
             
               <span data-tag="ロゼ王">ロゼ王</span>
             
-              <span data-tag="乱马1/2paro">乱马1/2paro</span>
-            
-              <span data-tag="原作">原作</span>
-            
-              <span data-tag="原作衍生">原作衍生</span>
+              <span data-tag="百鬼">百鬼</span>
             
               <span data-tag="参将">参将</span>
             
-              <span data-tag="同居">同居</span>
-            
-              <span data-tag="团托">团托</span>
-            
-              <span data-tag="国王的心">国王的心</span>
-            
-              <span data-tag="婚礼">婚礼</span>
-            
-              <span data-tag="学厨">学厨</span>
-            
-              <span data-tag="小王子">小王子</span>
+              <span data-tag="沉浸式互动剧本">沉浸式互动剧本</span>
             
               <span data-tag="恶boo">恶boo</span>
             
-              <span data-tag="星际旅人 x pega">星际旅人 x pega</span>
-            
-              <span data-tag="末日后酒店AU">末日后酒店AU</span>
-            
-              <span data-tag="沉浸式互动剧本">沉浸式互动剧本</span>
-            
-              <span data-tag="派生">派生</span>
-            
-              <span data-tag="派生宇宙">派生宇宙</span>
-            
-              <span data-tag="百鬼">百鬼</span>
-            
-              <span data-tag="类司">类司</span>
-            
-              <span data-tag="蔬红">蔬红</span>
-            
-              <span data-tag="论坛体">论坛体</span>
-            
-              <span data-tag="跑团LOG">跑团LOG</span>
-            
-              <span data-tag="银河系搭车客指南">银河系搭车客指南</span>
-            
-              <span data-tag="随笔">随笔</span>
-            
-              <span data-tag="魔骑">魔骑</span>
+              <span data-tag="国王的心">国王的心</span>
             
               <span data-tag="黑白百合">黑白百合</span>
             
               <span data-tag="黑道x中华街打工仔">黑道x中华街打工仔</span>
             
+              <span data-tag="婚礼">婚礼</span>
+            
+              <span data-tag="类司">类司</span>
+            
+              <span data-tag="乱马1/2paro">乱马1/2paro</span>
+            
+              <span data-tag="论坛体">论坛体</span>
+            
+              <span data-tag="魔骑">魔骑</span>
+            
+              <span data-tag="末日后酒店AU">末日后酒店AU</span>
+            
+              <span data-tag="派生">派生</span>
+            
+              <span data-tag="派生宇宙">派生宇宙</span>
+            
+              <span data-tag="跑团LOG">跑团LOG</span>
+            
+              <span data-tag="蔬红">蔬红</span>
+            
+              <span data-tag="随笔">随笔</span>
+            
+              <span data-tag="同居">同居</span>
+            
+              <span data-tag="团托">团托</span>
+            
+              <span data-tag="小王子">小王子</span>
+            
+              <span data-tag="星际旅人 x pega">星际旅人 x pega</span>
+            
+              <span data-tag="学厨">学厨</span>
+            
+              <span data-tag="银河系搭车客指南">银河系搭车客指南</span>
+            
+              <span data-tag="原作">原作</span>
+            
+              <span data-tag="原作衍生">原作衍生</span>
+            
           </div>
         </div>
 
         <div class="filter-group">
-          <label for="filter-year-month" class="filter-label">Year &amp; Month</label>
+          <label for="filter-year-month" class="filter-label">年月</label>
           <select
             id="filter-year-month"
             class="filter-select"
-            aria-label="Year &amp; Month">
-            <option value="">All Dates</option>
+            aria-label="年月">
+            <option value="">所有日期</option>
             
               
-              <option value="2022-02">February 1, 2022</option>
+              <option value="2022-02">2022年2月1日</option>
             
               
-              <option value="2022-03">March 1, 2022</option>
+              <option value="2022-03">2022年3月1日</option>
             
               
-              <option value="2022-05">May 1, 2022</option>
+              <option value="2022-05">2022年5月1日</option>
             
               
-              <option value="2022-11">November 1, 2022</option>
+              <option value="2022-11">2022年11月1日</option>
             
               
-              <option value="2024-03">March 1, 2024</option>
+              <option value="2024-03">2024年3月1日</option>
             
               
-              <option value="2024-04">April 1, 2024</option>
+              <option value="2024-04">2024年4月1日</option>
             
               
-              <option value="2024-06">June 1, 2024</option>
+              <option value="2024-06">2024年6月1日</option>
             
               
-              <option value="2024-08">August 1, 2024</option>
+              <option value="2024-08">2024年8月1日</option>
             
               
-              <option value="2024-10">October 1, 2024</option>
+              <option value="2024-10">2024年10月1日</option>
             
               
-              <option value="2025-02">February 1, 2025</option>
+              <option value="2025-02">2025年2月1日</option>
             
               
-              <option value="2025-07">July 1, 2025</option>
+              <option value="2025-07">2025年7月1日</option>
             
               
-              <option value="2025-10">October 1, 2025</option>
+              <option value="2025-10">2025年10月1日</option>
             
               
-              <option value="2025-12">December 1, 2025</option>
+              <option value="2025-12">2025年12月1日</option>
             
               
-              <option value="2026-02">February 1, 2026</option>
+              <option value="2026-02">2026年2月1日</option>
             
               
-              <option value="2026-03">March 1, 2026</option>
+              <option value="2026-03">2026年3月1日</option>
             
               
-              <option value="2026-07">July 1, 2026</option>
+              <option value="2026-07">2026年7月1日</option>
             
               
-              <option value="2026-08">August 1, 2026</option>
+              <option value="2026-08">2026年8月1日</option>
             
           </select>
         </div>
 
-        <button id="clear-filters" class="filter-clear-btn" aria-label="Clear Filters">
-          Clear Filters
+        <button id="clear-filters" class="filter-clear-btn" aria-label="清除筛选">
+          清除筛选
         </button>
       </div>
     </div>
@@ -857,7 +861,7 @@
         stroke-width="2"
         d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
     </svg>
-    May 17, 2022
+    2022年5月17日
   </time>
 
   
@@ -870,7 +874,7 @@
           stroke-width="2"
           d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
       </svg>
-      5723 words
+      5723 字
     </span>
   
 
@@ -884,7 +888,7 @@
           stroke-width="2"
           d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
       </svg>
-      12 min
+      12 分钟
     </span>
   
 </div>
@@ -965,7 +969,7 @@
         stroke-width="2"
         d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
     </svg>
-    March 2, 2022
+    2022年3月2日
   </time>
 
   
@@ -978,7 +982,7 @@
           stroke-width="2"
           d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
       </svg>
-      6624 words
+      6624 字
     </span>
   
 
@@ -992,7 +996,7 @@
           stroke-width="2"
           d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
       </svg>
-      14 min
+      14 分钟
     </span>
   
 </div>
@@ -1066,7 +1070,7 @@
         stroke-width="2"
         d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
     </svg>
-    February 21, 2022
+    2022年2月21日
   </time>
 
   
@@ -1079,7 +1083,7 @@
           stroke-width="2"
           d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
       </svg>
-      6676 words
+      6676 字
     </span>
   
 
@@ -1093,7 +1097,7 @@
           stroke-width="2"
           d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
       </svg>
-      14 min
+      14 分钟
     </span>
   
 </div>
@@ -1138,31 +1142,31 @@
     <nav class="pagination" aria-label="Pagination Navigation">
       <div class="pagination-info">
         <span class="pagination-text">
-          Page 3 of 3
+          第 3 页，共 3 页
         </span>
         <span class="pagination-count">
-          (3 posts on this page)
+          (3 篇文章 本页)
         </span>
       </div>
 
       <div class="pagination-controls">
         
         
-          <a href="/posts/" class="pagination-link pagination-link-first" aria-label="First">
+          <a href="/posts/" class="pagination-link pagination-link-first" aria-label="首页">
             <svg class="pagination-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 19l-7-7 7-7m8 14l-7-7 7-7"></path>
             </svg>
-            <span class="pagination-link-text">First</span>
+            <span class="pagination-link-text">首页</span>
           </a>
         
 
         
         
-          <a href="/posts/page/2/" class="pagination-link pagination-link-prev" aria-label="Previous">
+          <a href="/posts/page/2/" class="pagination-link pagination-link-prev" aria-label="上一页">
             <svg class="pagination-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
             </svg>
-            <span class="pagination-link-text">Previous</span>
+            <span class="pagination-link-text">上一页</span>
           </a>
         
 
@@ -1209,7 +1213,7 @@
         
         
           <span class="pagination-link pagination-link-disabled" aria-disabled="true">
-            <span class="pagination-link-text">Next</span>
+            <span class="pagination-link-text">下一页</span>
             <svg class="pagination-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
             </svg>
@@ -1219,7 +1223,7 @@
         
         
           <span class="pagination-link pagination-link-disabled" aria-disabled="true">
-            <span class="pagination-link-text">Last</span>
+            <span class="pagination-link-text">末页</span>
             <svg class="pagination-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 5l7 7-7 7M5 5l7 7-7 7"></path>
             </svg>
@@ -1234,7 +1238,7 @@
 
     
     <div class="tag-nav-links">
-  <a href="/" class="tag-nav-link">Back to Home</a>
+  <a href="/" class="tag-nav-link">返回主页</a>
 </div>
 
   </div>
@@ -1304,6 +1308,7 @@
     
     <section class="totalcount">
     
+      
     
         
     
@@ -1360,7 +1365,7 @@
 
     </footer>
 
-    <div id="search-modal" class="search-modal" aria-hidden="true" role="dialog" aria-label="Search" data-no-results="No results found">
+    <div id="search-modal" class="search-modal" aria-hidden="true" role="dialog" aria-label="搜索" data-no-results="未找到结果">
   <div class="search-modal-backdrop" id="search-modal-backdrop"></div>
   <div class="search-modal-container">
     <div class="search-input-wrapper">
@@ -1375,10 +1380,10 @@
         type="search"
         id="search-input"
         class="search-input"
-        placeholder="Search..."
+        placeholder="搜索..."
         autocomplete="off"
-        aria-label="Search">
-      <button class="search-input-clear" id="search-input-clear" aria-label="Clear search">
+        aria-label="搜索">
+      <button class="search-input-clear" id="search-input-clear" aria-label="清除搜索">
         <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path
             stroke-linecap="round"
@@ -1387,7 +1392,7 @@
             d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path>
         </svg>
       </button>
-      <button class="search-modal-close" id="search-modal-close" aria-label="Close search">
+      <button class="search-modal-close" id="search-modal-close" aria-label="关闭搜索">
         <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path
             stroke-linecap="round"
@@ -1406,11 +1411,11 @@
   <div class="mobile-menu-overlay"></div>
   <div class="mobile-menu-content">
     <div class="mobile-menu-header">
-      <span class="mobile-menu-title">Menu</span>
+      <span class="mobile-menu-title">菜单</span>
       <button
         id="mobile-menu-close"
         class="mobile-menu-close"
-        aria-label="Close menu"
+        aria-label="关闭菜单"
         type="button">
         <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
@@ -1424,7 +1429,7 @@
       <a
         href="/"
         class="menu-link ">
-        Home
+        主页
       </a>
     </li>
   
@@ -1432,7 +1437,7 @@
       <a
         href="/posts/"
         class="menu-link active">
-        Posts
+        文章
       </a>
     </li>
   
@@ -1440,7 +1445,7 @@
       <a
         href="/tags/"
         class="menu-link ">
-        Tags
+        标签
       </a>
     </li>
   
@@ -1448,7 +1453,7 @@
       <a
         href="/series/"
         class="menu-link ">
-        Series
+        系列
       </a>
     </li>
   
@@ -1456,7 +1461,7 @@
 
     </nav>
     <div class="mobile-menu-footer">
-      <button id="mobile-search-toggle" class="mobile-search-toggle" aria-label="Search" type="button">
+      <button id="mobile-search-toggle" class="mobile-search-toggle" aria-label="搜索" type="button">
         <svg class="search-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path
             stroke-linecap="round"
@@ -1464,11 +1469,15 @@
             stroke-width="2"
             d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
         </svg>
-        <span>Search</span>
+        <span>搜索</span>
       </button>
       
+  
+  
+  
 
-      <button class="theme-toggle" aria-label="Toggle theme" type="button">
+
+      <button class="theme-toggle" aria-label="切换主题" type="button">
         <svg class="icon-sun" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
           <path
             stroke-linecap="round"
@@ -1490,7 +1499,7 @@
 
     
 
-    <button id="scroll-to-top" class="scroll-to-top" aria-label="Scroll to top" type="button">
+    <button id="scroll-to-top" class="scroll-to-top" aria-label="返回顶部" type="button">
   <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
     <path
       stroke-linecap="round"

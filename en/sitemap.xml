@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://GalacticWanderingDream.github.io/en/</loc>
+    
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="zh"
+               href="https://GalacticWanderingDream.github.io/"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="ja"
+               href="https://GalacticWanderingDream.github.io/ja/"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://GalacticWanderingDream.github.io/en/"/>
+  </url>
+  <url>
+    <loc>https://GalacticWanderingDream.github.io/en/series/</loc>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="zh"
+               href="https://GalacticWanderingDream.github.io/series/"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="ja"
+               href="https://GalacticWanderingDream.github.io/ja/series/"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://GalacticWanderingDream.github.io/en/series/"/>
+  </url>
+  <url>
+    <loc>https://GalacticWanderingDream.github.io/en/tags/</loc>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="zh"
+               href="https://GalacticWanderingDream.github.io/tags/"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="ja"
+               href="https://GalacticWanderingDream.github.io/ja/tags/"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://GalacticWanderingDream.github.io/en/tags/"/>
+  </url>
+  
+</urlset>
